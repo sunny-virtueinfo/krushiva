@@ -1,4 +1,4 @@
-package com.krushiva_rn
+package com.vi.krushiva
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

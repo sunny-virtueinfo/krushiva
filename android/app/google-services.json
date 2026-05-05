@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1002222973047",
+    "project_id": "krushiva-eb663",
+    "storage_bucket": "krushiva-eb663.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002222973047:android:3ee1506e5d93bcce2a5672",
+        "android_client_info": {
+          "package_name": "com.vi.krushiva"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrdmw1s0Ba6xk-Cq3Tfpc1hvlPRtZM8QQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

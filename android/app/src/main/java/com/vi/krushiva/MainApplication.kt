@@ -1,4 +1,4 @@
-package com.krushiva_rn
+package com.vi.krushiva
 
 import android.app.Application
 import com.facebook.react.PackageList
