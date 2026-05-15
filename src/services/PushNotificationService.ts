@@ -24,6 +24,10 @@ export const requestUserPermission = async () => {
 
 export const getFCMToken = async () => {
   try {
+    // iOS requires device registration for remote messages before getToken()
+    if (Platform.OS === 'ios') {
+      await messaging().registerDeviceForRemoteMessages();
+    }
     const token = await messaging().getToken();
     return token;
   } catch (error) {
